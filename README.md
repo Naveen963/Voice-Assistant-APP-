@@ -2,7 +2,8 @@
 
 ### [Live Site](https://news-reader-ai-app.netlify.app/)
 
-![Voice Controlled React News Application](images/logo.png)
+## Voice Control React News Application  ![app](https://user-images.githubusercontent.com/55271508/122261674-403bcb00-cef2-11eb-871a-a7985e5f66c6.png)
+
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
