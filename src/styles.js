@@ -7,6 +7,8 @@ export default makeStyles((theme) => ({
     left: 0,
     bottom: 0,
     color: 'black',
+   
+    padding:"3px",
     width: '100%',
     display: 'flex',
     alignItems: 'center',
@@ -16,7 +18,15 @@ export default makeStyles((theme) => ({
       display: 'none',
     },
   },
+  name:{
+    color:'white',
+    background:'black',
+    padding:'5px 4px',
+
+  },
   link: {
+    
+    
     textDecoration: 'none',
     color: 'rgba(21, 101, 192)',
   },
